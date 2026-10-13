@@ -1,4 +1,4 @@
-### Hi, I'm Manuel, an iOS Engineer in Düsseldorf.
+### Hi, I'm Manuel, an Product Engineer (iOS, macOS) in Düsseldorf.
 
 More about me and my work: [manuelwelsch.de](https://manuelwelsch.de)
 
